@@ -14,6 +14,7 @@
     "resolveJsonModule": true,
     "allowImportingTsExtensions": false,
     "isolatedModules": true,
+    "types": ["node"],
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
